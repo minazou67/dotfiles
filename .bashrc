@@ -8,6 +8,8 @@ umask 022
 
 # Export
 export LANG=ja_JP.UTF-8
+export EDITOR=vim
+export VISUAL=vim
 
 # History
 HISTSIZE=1000
