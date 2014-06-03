@@ -18,6 +18,7 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
+alias l='ls'
 alias ls='ls -F --color'
 alias ll='ls -lF --color'
 alias la='ls -alF --color'
