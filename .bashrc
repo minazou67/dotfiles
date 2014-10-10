@@ -10,6 +10,8 @@ umask 022
 export LANG=ja_JP.UTF-8
 export EDITOR=vim
 export VISUAL=vim
+# for msysGit
+# export LS_COLORS='di=01;30:'
 
 # History
 HISTSIZE=1000
@@ -24,6 +26,10 @@ alias l='ls'
 alias ls='ls -F --color'
 alias ll='ls -lF --color'
 alias la='ls -alF --color'
+# for msysGit
+# alias ls='ls -F --color --show-control-chars'
+# alias ll='ls -lF --color --show-control-chars'
+# alias la='ls -alF --color --show-control-chars'
 
 alias h='history'
 
