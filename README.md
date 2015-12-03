@@ -1,14 +1,14 @@
-minazou67's dotfiles
-====================
+## minazou67's dotfiles
 
-Setup
---------------------
+### Setup
 
-    $ cd
-    $ git clone https://github.com/minazou67/dotfiles.git
-    $ chmod +x ./dotfiles/symlink.sh
-    $ ./dotfiles/symlink.sh
+```ShellSession
+$ cd
+$ git clone https://github.com/minazou67/dotfiles.git
+$ chmod +x ./dotfiles/symlink.sh
+$ ./dotfiles/symlink.sh
+```
 
-###For Windows
+### For Windows
 
 run as an administrator the mklink.bat
