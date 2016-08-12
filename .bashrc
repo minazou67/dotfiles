@@ -11,7 +11,7 @@ export LANG=ja_JP.UTF-8
 export EDITOR=vim
 export VISUAL=vim
 # for msysGit
-# export LS_COLORS='di=01;30:'
+# export LS_COLORS='di=01;34:'
 
 # History
 HISTSIZE=1000
